@@ -1,1 +1,1 @@
-alert("Press OK to start");
+const heading = document.querySelector("h1");
