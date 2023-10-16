@@ -4,7 +4,11 @@ body {
 h1 {
     background-color: rgb(187, 255, 147);
     font-family: cursive;
-    width: 25%;
+    width: 40%;
+    min-width: 300px;
     padding: 5px 1rem;
     margin: 0 auto;
+}
+.nowrap {
+    white-space: nowrap;
 }
